@@ -11,5 +11,6 @@ Predefined servo motor gestures
 Voice interaction using TTS
 
 
-Image:
-![Robot Frontview](https://github.com/user-attachments/assets/4533de29-4b5b-4e82-9572-739cff6616d1)
+
+
+![Robot Frontview](https://github.com/user-attachments/assets/a5a35cf4-baf2-4a6e-9cb1-e034f8c3a258)
