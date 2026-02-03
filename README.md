@@ -9,3 +9,7 @@ Wake word activation ("Echobot")
 Multilingual speech recognition and response
 Predefined servo motor gestures
 Voice interaction using TTS
+
+
+Image:
+![Robot Frontview](https://github.com/user-attachments/assets/4533de29-4b5b-4e82-9572-739cff6616d1)
